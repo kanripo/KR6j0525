@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:11.741184
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 施八方天儀則
 #+PROPERTY: CBETA_ID T21n1294
 #+PROPERTY: ID KR6j0525
