@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:11.741184
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 施八方天儀則
 #+PROPERTY: CBETA_ID T21n1294
 #+PROPERTY: ID KR6j0525
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1294
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0525_T_000-0378c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0525_T_001-0378c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1294¶
-
- 施八方天儀則一卷¶
+No. 1294¶
+施八方天儀則一卷¶
 ¶
 大興善寺翻經院灌頂阿闍梨述¶
 
-凡施八方天先辦所施飲食。五味雜粥稠煮
+凡施八方天先辨所施飲食。五味雜粥稠煮
 <pb:KR6j0525_T_001-0379a>¶
 勿令稀。五味者粳米菉豆油麻牛乳蘇。各量¶
 多少。以意令其有味。著少許鹽切須護淨。盛¶
